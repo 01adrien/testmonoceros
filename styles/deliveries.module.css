@@ -1,0 +1,61 @@
+.table {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: separate;
+  border-spacing: 0 5px;
+  font-size: 10px;
+}
+
+.tHeader {
+  background-color: var(--main-bg-color);
+  padding: 25px 5px 5px 5px;
+  font-weight: 900;
+  font-size: 12px;
+}
+
+.tCell {
+  padding: 15px 5px 15px 5px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 11px;
+}
+
+.noAlert {
+  cursor: pointer;
+  background-color: white;
+}
+
+.alert {
+  cursor: pointer;
+  background-color: var(--main-color);
+  color: white;
+}
+
+.head {
+  margin: 0 64px 0px;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ff455a;
+}
+
+.closeBtn {
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 15px;
+  font-size: 25px;
+}
+
+.popup {
+  width: 65px !important;
+}
+
+.popupDetail {
+  width: 95px !important;
+}

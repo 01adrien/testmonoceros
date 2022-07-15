@@ -1,0 +1,13 @@
+{
+  "products": "Products",
+  "newProduct": "New Product",
+  "productsCatalogue": "Products Catalogue",
+  "packages": "Packages",
+  "newPackage": "New Package",
+  "packagesCatalogue": "Package Catalogue",
+  "deliveries": "Deliveries",
+  "newDelivery": "New Delivery",
+  "deliveriesOverview": "Deliveries Overview",
+  "alarms": "Alarms",
+  "signOut": "Sign Out"
+}

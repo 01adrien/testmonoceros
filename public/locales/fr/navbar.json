@@ -1,0 +1,13 @@
+{
+  "products": "Produits",
+  "newProduct": "Nouveau Produit",
+  "productsCatalogue": "Catalogue Produits",
+  "packages": "Paquets",
+  "newPackage": "Nouveau Paquet",
+  "packagesCatalogue": "Catalogue Paquets",
+  "deliveries": "Livraisons",
+  "newDelivery": "Nouvelle Livraison",
+  "deliveriesOverview": "Synthèse Livraisons",
+  "alarms": "Alertes",
+  "signOut": "Se déconnecter"
+}
